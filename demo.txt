@@ -1,0 +1,4 @@
+At this point we just need to commit and push our branch to our github repo:
+
+$ git commit -m "Add github links to readme.md file" // -m stands for message 
+// =>  Changes to be committed: README.md 
